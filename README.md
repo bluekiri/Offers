@@ -1,2 +1,2 @@
 # Offers
-Offers managed by Bluekiri
+A directory of Job Offers managed by Bluekiri
